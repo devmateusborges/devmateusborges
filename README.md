@@ -5,4 +5,7 @@
 </div>
 
   <h1>Mateus Borges</h1>
+  
+  <script>
   ![Snake animation](https://github.com/Spekytro15/Spekytro15/blob/output/github-contribution-grid-snake.svg)
+  </script>
