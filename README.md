@@ -5,4 +5,4 @@
 </div>
 
   
-  ![Snake animation](https://github.com/Spekytro15/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Spekytro15/Spekytro15/blob/output/github-contribution-grid-snake.svg)
