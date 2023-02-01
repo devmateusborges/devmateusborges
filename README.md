@@ -3,7 +3,7 @@
   
   <h3>Quem sou eu ?</h3>
   
-  <p> Sou estudante de sistemas de informação, com experiência em automação. E já  trabalhei em  Remotamente desenvolvendo sites para a  empresa resultfacil, em programação web, tenho uma paixão por informática desde hadware a software.</p>
+  <p> Sou estudante de sistemas de informação, com experiência em automação. E tenho paixão por programação seja web, desktop ou mobile. Esse sou eu Amo essa profissão e espero cada dia mais evoluir</p>
 
 
 <h2>Tecnologias 🧑‍💻✅</h2>
