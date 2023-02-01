@@ -3,12 +3,7 @@
   
   <h3>Quem sou eu ?</h3>
   
-  <p> Sou estudante de sistemas de informação, com experiência em automação, e trabalhava Remotamente Desenvolvendo sites, Como Dev -  JR, Focado na web.
- Responsável pelo Front-end e Back-end, trabalhando em Equipe Totalmente Remoto.
- No Back-end, Com framework, flask em Python com testes integrados Pytest, unittests com banco de dados postgress.
-Front-end tecnologia React utilizando next, responsável por criar Paginas, designer, componentes.
-Tenho conhecimento em tailwind, css html, javaScript, bootstrep.
-Gosto muito de estudar e aprender sempre.</p>
+  <p> Sou estudante de sistemas de informação, com experiência em automação. E já  trabalhei em  Remotamente desenvolvendo sites para a  empresa resultfacil, em programação web, tenho uma paixão por informática desde hadware a software.</p>
 
 
 <h2>Tecnologias 🧑‍💻✅</h2>
