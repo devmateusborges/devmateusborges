@@ -1,4 +1,4 @@
-
+  <script src="https://cdn.tailwindcss.com"></script>
   <h1>Bem vindo/a, Fique avontade 😀</h1> 
   
   <h3>Quem sou eu ?</h3>
@@ -8,7 +8,7 @@
 
 <h2>Tecnologias 🧑‍💻✅</h2>
   <h3>Front-End</h3>
-<div style="display:inline_block;">   
+<div class="flex w-full" >   
   
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   
