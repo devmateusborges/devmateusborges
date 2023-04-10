@@ -8,7 +8,7 @@
 
 <h2>Tecnologias 🧑‍💻✅</h2>
   
-<div class="flex w-full"> 
+<div style="  display: flex; flex-wrap: nowrap; background-color: DodgerBlue;"> 
 <div>   
   <h3>Front-End</h3>
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
