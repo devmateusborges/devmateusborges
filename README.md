@@ -1,4 +1,4 @@
-  <script src="https://cdn.tailwindcss.com"></script>
+
   <h1>Bem vindo/a, Fique avontade 😀</h1> 
   
   <h3>Quem sou eu ?</h3>
