@@ -3,7 +3,7 @@
   
   <h3>Quem sou eu ?</h3>
   
-  <p> Sou estudante de sistemas de informação, com experiência como dev junior. E tenho paixão por programação seja web, desktop ou mobile. Esse sou eu Amo essa profissão e espero cada dia mais evoluir</p>
+  <p> Desenvolvedor pleno e analista de sistemas apaixonado por desenvolvimento, com sólida experiência em Flutter e Angular. Focado em metodologias ágeis, busco constantemente criar soluções escaláveis e eficientes que atendam a demandas específicas de negócio, aplicando inovação para transformar processos.</p>
 
 
 <h2>Tecnologias 🧑‍💻✅</h2>
